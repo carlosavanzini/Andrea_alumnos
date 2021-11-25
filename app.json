@@ -7,8 +7,9 @@
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "resizeMode": "contain"
+      
+      
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.tincode.alumnos",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
